@@ -2,13 +2,13 @@
 
 My configurations of both (bspwm) and other things I hope you like it :)
 
-## Screenshot 📷
+## Screenshot
 
 [![BSPWM-TERM.png](https://i.postimg.cc/0jq3Shtp/BSPWM-TERM.png)](https://postimg.cc/BLMM97f6)
 
-## Youtube 🎧
+## Review
 
-https://youtu.be/pfyjik4qS5E
+[Youtube](https://youtu.be/pfyjik4qS5E)
 
 ## Install ✍
 
@@ -19,7 +19,7 @@ chmod +x bspwm_stage_1.sh bspwm_stage_2.sh bspwm_stage_3.sh bspwm_stage_4.sh
 ./bspwm_stage_1.sh && ./bspwm_stage_2.sh && ./bspwm_stage_3.sh && ./bspwm_stage_4.sh
 ```
 
-## Supported distributions ⌛
+## Supported distributions 
 
 | Distribution |   State       |
 |--------------|---------------| 
