@@ -1,4 +1,4 @@
-## Dotfiles bspwm
+## <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f680.gif" width ="50"><b> Dotfiles BSPWM</b><br>
 
 My configurations of both (bspwm) and other things I hope you like it :)
 
