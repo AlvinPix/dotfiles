@@ -10,7 +10,7 @@ My configurations of both (bspwm) and other things I hope you like it :)
 
 [Youtube](https://youtu.be/pfyjik4qS5E)
 
-## Install ✍
+## Install 
 
 ```
 git clone https://github.com/AlvinPix/dotfiles.git
